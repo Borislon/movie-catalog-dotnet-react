@@ -1,0 +1,11 @@
+# React / Node
+node_modules/
+dist/
+.env.local
+# .NET / C#
+bin/
+obj/
+*.db
+*.db-journal
+.vscode/
+.idea/
